@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.th {
+    border-collapse: collapse;
+    color: green;
+}
+
+.m {
+    color: rgb(247, 7, 7) 
+    
+}
+
+.mc {
+    border: 1px solid black;
+    border-color: black;
+    margin: 90px 300px;
+    padding: 10px;
+}
+
+h3 {
+    color: gray;
+}
+
+.ma , .f {
+    color: rgb(8, 65, 8);
+}
+
+th {
+    padding-right: 25px;
+    color: #2b7a5d;
+}
+
+td {
+    border: 1px solid #a4c161;
+    padding: 10px 0px 0px 0px;
+}
+
+
